@@ -1,0 +1,5 @@
+#include "AD.c"
+#include "ICMmain.c"
+#include "SHTC3.c"
+#include "LPS22HB.c"
+#include "TCSMain.c"
