@@ -4,6 +4,7 @@
 #include <math.h>
 #include"SHTC3.h"
 #include <unistd.h>
+
 float TH_Value,RH_Value;
 char checksum;
 int fd;
@@ -96,3 +97,4 @@ int callSHTC3()
 	printf("Temperature = %6.2f°C , Humidity = %6.2f%% \r\n", TH_Value, RH_Value);
     return 0;
 }
+// added comment
