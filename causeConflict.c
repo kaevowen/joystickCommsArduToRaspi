@@ -1,1 +1,1 @@
-#define conflict "is good"
+#define conflic "is good"
